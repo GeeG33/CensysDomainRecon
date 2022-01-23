@@ -78,3 +78,10 @@ optional arguments:
 python3 censys_domain_report.py -d gee-gee.uk -o gee-gee-uk.json
 ```
 
+## Further Improvements
+
+- Reduce the amount of API calls that the script needs to make
+- More intelligence on IPs, domains and emails collected
+- More granular structure to the final report 
+- Include Tests for further additions 
+
